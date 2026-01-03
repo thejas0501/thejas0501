@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi 👋 I'm **K A THEJAS**
 
-<!--
-**thejas0501/thejas0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **DevOps Engineer** focused on building production-ready cloud infrastructure.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- AWS (VPC, EC2, ALB, Auto Scaling)
+- Terraform (Infrastructure as Code)
+- Linux & Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+👉 **Production-Ready AWS Infrastructure using Terraform**
+
+- Designed a multi-AZ highly available AWS architecture
+- Implemented ALB and Auto Scaling Group
+- Deployed EC2 instances in private subnets
+- Managed full infrastructure lifecycle using Terraform
