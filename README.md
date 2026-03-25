@@ -22,6 +22,7 @@
 #### Cloud & DevOps:
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)]()
@@ -38,12 +39,28 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)]()
+[![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)]()
 
 #### Tools & CI/CD:
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)]()
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)]()
+
+---
+
+### 🚀 Featured Production Projects:
+
+#### 🟢 [OpsConsole-AWS](https://github.com/thejas0501/OpsConsole-AWS)
+- **Production Deployment**: Architected and fully deployed a production-level centralized dashboard tracking AWS health, usage, and cost analytics.
+- **Cost Reduction**: Built a waste detection engine targeting idle EC2 instances and unattached EBS volumes, identifying 15% in resource waste.
+- **Tech Stack**: Next.js, AWS SDK v3, CloudWatch, Cost Explorer, EC2.
+
+#### 🟢 [Terraform AWS Production Infra](https://github.com/thejas0501/terraform-aws-production-infra)
+- **High Availability**: Designed a multi-AZ scalable AWS architecture using pure Infrastructure as Code.
+- **Zero-Trust Setup**: Deployed EC2 instances in private subnets with ALB and Auto Scaling Groups managed entirely via Terraform.
+- **Tech Stack**: Terraform, AWS (VPC, EC2, ALB, ASG), HCL.
 
 ---
 
