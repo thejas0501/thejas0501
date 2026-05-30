@@ -5,14 +5,14 @@
 - 🌱 I'm constantly learning about **Advanced System Design, Serverless Computing, and multi-cloud environments**.
 - 👯 I'm looking to collaborate on **Cloud Architecture, DevOps automations, and CI/CD enhancements**.
 - 💬 Ask me about **AWS, Azure, Terraform, CI/CD, and highly available architectures**.
-- 📫 How to reach me: [kethinithejas22112004@gmail.com](mailto:kethinithejas22112004@gmail.com)
+- 📫 How to reach me: [thejaskethini.tech@gmail.com](mailto:thejaskethini.tech@gmail,com)
 - ⚡ Fun fact: I can juggle between coding, automating cloud infra, and monitoring systems while still finding time to binge-watch series! 🎬
 
 ---
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka-thejas/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kethinithejas22112004@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejaskethini.tech@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300f3ff.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://thejas-portfolio-pi.vercel.app/)
 
 ---
